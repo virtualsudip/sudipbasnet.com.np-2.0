@@ -11,7 +11,7 @@
     const cfg = {
 
         // Countdown Timer Final Date
-        finalDate : 'July 30, 2040 00:00:00',
+        finalDate : 'July 30, 3000 00:00:00',
     };
 
 
@@ -506,4 +506,5 @@
     })();
 
 })(document.documentElement);
+
 
